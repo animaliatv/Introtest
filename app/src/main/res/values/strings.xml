@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intro test</string>
+    <string name="intro_slide_title_1">Gooandback slide 1</string>
+    <string name="intro_slide_description_1">This is an intro test slide 2</string>
+    <string name="intro_slide_title_2">Gooandback slide 2</string>
+    <string name="intro_slide_description_2">This is an intro test slide 2</string>
+    <string name="intro_slide_title_3">Gooandback slide 3</string>
+    <string name="intro_slide_description_3">This is an intro test slide 3</string>
+    <string name="intro_slide_title_4">Gooandback slide 4</string>
+    <string name="intro_slide_description_4">This is an intro test slide 4</string>
+    <string name="intro_slide_title_5">Gooandback slide 5</string>
+    <string name="intro_slide_description_5">This is an intro test slide 5</string>
+    <string name="intro_button_content">GET STARTED</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentDark">#7c1f3f</color>
+    <color name="gooAndBackone">#5bc0eb</color>
+    <color name="gooAndBackoneDark">#3e83a1</color>
+    <color name="gooAndBacktwo">#fde74c</color>
+    <color name="gooAndBacktwoDark">#bcac39</color>
+    <color name="gooAndBackthree">#9bc53d</color>
+    <color name="gooAndBackthreeDark">#83a634</color>
+    <color name="gooAndBacktfour">#e55934</color>
+    <color name="gooAndBackfourDark">#8b3721</color>
+    <color name="gooAndBacktfive">#fa7921</color>
+    <color name="gooAndBackfiveDark">#ce641c</color>
+</resources>
